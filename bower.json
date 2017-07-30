@@ -1,0 +1,25 @@
+{
+  "name": "anonymchat",
+  "description": "A Chat App for Silent and Anonymous people.",
+  "main": "app.js",
+  "authors": [
+    "Silent Anonym"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/harikishore96/anonymchat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.5",
+    "angular-animate": "1.6.5",
+    "angular-aria": "1.6.5",
+    "angular-messages": "1.6.5",
+    "angular-material": "1.1.4",
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,0 +1,17 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+    <g>
+        <title>background</title>
+        <rect fill="#fff" id="canvas_background" height="402" width="402" y="-1" x="-1" />
+        <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+            <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" />
+        </g>
+    </g>
+    <g>
+        <title>Layer 1</title>
+        <rect x="0" y="0" id="svg_1" height="400" width="200" stroke-width="1.5" stroke="#000" fill="#000000" />
+        <text xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="75" id="svg_6" y="176" x="22.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff" />
+        <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Caveat Brush', cursive" font-size="60" id="svg_7" y="200" x="30" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">Anony</text>
+        <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Caveat Brush', cursive" font-size="60" id="svg_8" y="200" x="200" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">mChat</text>
+    </g>
+</svg>
